@@ -1,10 +1,8 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# Laboratorio de botánica sistemática
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
-
-So far we've got:
+Estamos interesados en aproximaciones integrativas a la taxonomía de plantas
 
 - Blog w/ posts, including pagination.
 - Configurable manifest & global settings.
